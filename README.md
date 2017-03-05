@@ -1,6 +1,6 @@
 # ElixirExercises
 
-**TODO: Add description**
+My solution for the following exercises: http://exercism.io/languages/elixir/exercises
 
 ## Installation
 
