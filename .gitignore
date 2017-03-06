@@ -17,3 +17,5 @@ erl_crash.dump
 *.ez
 /elixirExercises.iml
 /.idea/
+/.idea/misc.xml
+!/.idea/modules.xml
